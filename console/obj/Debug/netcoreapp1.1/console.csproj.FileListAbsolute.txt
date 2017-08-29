@@ -1,0 +1,9 @@
+C:\Users\mcata\OneDrive\Documents\VSCode Projects\console\bin\Debug\netcoreapp1.1\console.deps.json
+C:\Users\mcata\OneDrive\Documents\VSCode Projects\console\bin\Debug\netcoreapp1.1\console.runtimeconfig.json
+C:\Users\mcata\OneDrive\Documents\VSCode Projects\console\bin\Debug\netcoreapp1.1\console.runtimeconfig.dev.json
+C:\Users\mcata\OneDrive\Documents\VSCode Projects\console\bin\Debug\netcoreapp1.1\console.dll
+C:\Users\mcata\OneDrive\Documents\VSCode Projects\console\bin\Debug\netcoreapp1.1\console.pdb
+C:\Users\mcata\OneDrive\Documents\VSCode Projects\console\obj\Debug\netcoreapp1.1\console.csproj.CoreCompileInputs.cache
+C:\Users\mcata\OneDrive\Documents\VSCode Projects\console\obj\Debug\netcoreapp1.1\console.AssemblyInfo.cs
+C:\Users\mcata\OneDrive\Documents\VSCode Projects\console\obj\Debug\netcoreapp1.1\console.dll
+C:\Users\mcata\OneDrive\Documents\VSCode Projects\console\obj\Debug\netcoreapp1.1\console.pdb
